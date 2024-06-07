@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DCU_Image_Viewer</string>
+    <string name="prev">prev</string>
+    <string name="next">Next</string>
+    <string name="todo">TODO</string>
+</resources>
